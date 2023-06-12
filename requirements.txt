@@ -2,4 +2,3 @@ xgboost
 sklearn
 pandas
 numpy
-seaborn
